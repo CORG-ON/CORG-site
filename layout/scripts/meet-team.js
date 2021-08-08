@@ -76,5 +76,4 @@ function showPerson(val) {
     author.textContent = item.name;
     job.textContent = item.job;
     info.textContent = item.text;
-    rd = item.id - 1;
 }
