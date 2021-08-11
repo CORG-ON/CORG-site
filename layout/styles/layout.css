@@ -12,6 +12,9 @@ File: Layout CSS
 @import url("fontawesome-free/css/all.css");
 @import url("framework.css");
 
+#gform {
+	text-align: center;
+  }
 /* Rows
 --------------------------------------------------------------------------------------------------------------- */
 .row0, .row0 a{}
