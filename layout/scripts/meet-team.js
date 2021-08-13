@@ -2,17 +2,17 @@
 const members = [
     {
         id: 1,
-        name: "susan smith",
-        job: "web developer",
+        name: "Alex Xu",
+        job: "Founder",
         img:
-            "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
+            "/images/demo/person.png",
         text:
             "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
     },
     {
         id: 2,
-        name: "anna johnson",
-        job: "web designer",
+        name: "Marcus Lee",
+        job: "Founder",
         img:
             "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg",
         text:
@@ -20,17 +20,17 @@ const members = [
     },
     {
         id: 3,
-        name: "peter jones",
-        job: "intern",
+        name: "Thomas Wang",
+        job: "Chief Technology Officer",
         img:
             "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
         text:
-            "Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.",
+            "blah blah ablha blaha alhalahalhalhdf Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.",
     },
     {
         id: 4,
-        name: "bill anderson",
-        job: "the boss",
+        name: "Sophia Sun",
+        job: "Chief Operating Officer",
         img:
             "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
         text:
@@ -47,7 +47,7 @@ const prevBtn = document.querySelector(".prev-btn");
 const nextBtn = document.querySelector(".next-btn");
 
 // set starting item
-let cur = 3;
+let cur = 0;
 
 // load initial item
 window.addEventListener("DOMContentLoaded", function () {
