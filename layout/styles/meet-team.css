@@ -100,10 +100,7 @@ h3 {
 h4 {
   font-size: 0.875rem;
 }
-p {
-  margin-bottom: 1.25rem;
-  color: var(--clr-grey-5);
-}
+
 @media screen and (min-width: 800px) {
   h1 {
     font-size: 4rem;
@@ -145,7 +142,7 @@ p {
   }
 }
 main {
-  min-height: 100vh;
+  min-height: 60vh;
   display: grid;
   place-items: center;
 }
@@ -156,7 +153,7 @@ Team Members
 ===============
 */
 main {
-  min-height: 100vh;
+  min-height: 60vh;
   display: grid;
   place-items: center;
 }

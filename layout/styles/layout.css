@@ -11,6 +11,9 @@ File: Layout CSS
 
 @import url("fontawesome-free/css/all.css");
 @import url("framework.css");
+@import url("meet-team.css");
+@import url("testimonial.css");
+
 
 #gform {
 	text-align: center;
