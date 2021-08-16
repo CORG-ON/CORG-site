@@ -8,6 +8,10 @@ Licence URI: https://www.os-templates.com/template-terms
 File: Back to Top JS
 */
 
+// ********** set date ************
+const date = document.getElementById("date");
+date.innerHTML = new Date().getFullYear();
+
 jQuery("#backtotop").click(function () {
     jQuery("body,html").animate({
         scrollTop: 0
