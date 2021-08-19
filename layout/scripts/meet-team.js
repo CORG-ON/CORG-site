@@ -32,37 +32,46 @@ const members = [
         name: "Sophia Sun",
         job: "Chief Operating Officer",
         img:
-            "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
+            "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg",
         text:
             "Sophia Sun is responsible for the administration of all programs and services and events provided by CORG. This includes the drafting and planning processes and execution process for these services and events, such as webinars, workshops, and Hackathons.",
     },
-    {
-        id: 5,
-        name: "Sophia Sun",
-        job: "Chief Human Resources Officer",
-        img:
-            "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
-        text:
-            "John Doe works internally to build team engagement as well as externally for onboarding new applicants. He/She are constantly brainstorming new ideas and procedures to enhance the CORG experience for all members!",
-    },
-    {
-        id: 6,
-        name: "Sophia Sun",
-        job: "Chief Financial Officer",
-        img:
-            "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
-        text:
-            "Bobby Bob serves as one of the main growth leaders of CORG, by coordinating various sponsorship pitches, organizing fundraisers, handling donations and creating innovative ideas as one of the key growth-maker within the organization.",
-    },
-    {
-        id: 7,
-        name: "Sophia Sun",
-        job: "Chief Marketing Officer",
-        img:
-            "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
-        text:
-            "Jane Doe oversees all CORG promotional events and activities throughout the term. He/She represents CORG in a positive light, manages the social media presence and devises effective marketing tactics to execute in an optimal manner for success.",
-    },
+    // {
+    //     id: 5,
+    //     name: "Placeholder",
+    //     job: "Chief Human Resources Officer",
+    //     img:
+    //         "placeholder",
+    //     text:
+    //         "John Doe works internally to build team engagement as well as externally for onboarding new applicants. He/She are constantly brainstorming new ideas and procedures to enhance the CORG experience for all members!",
+    // },
+    // {
+    //     id: 6,
+    //     name: "Placeholder",
+    //     job: "Chief Financial Officer",
+    //     img:
+    //         "placeholder",
+    //     text:
+    //         "Bobby Bob serves as one of the main growth leaders of CORG, by coordinating various sponsorship pitches, organizing fundraisers, handling donations and creating innovative ideas as one of the key growth-maker within the organization.",
+    // },
+    // {
+    //     id: 7,
+    //     name: "Placeholder",
+    //     job: "Chief Marketing Officer",
+    //     img:
+    //         "placeholder",
+    //     text:
+    //         "Jane Doe oversees all CORG promotional events and activities throughout the term. He/She represents CORG in a positive light, manages the social media presence and devises effective marketing tactics to execute in an optimal manner for success.",
+    // },
+    // {
+    //     id: 8,
+    //     name: "Placeholder",
+    //     job: "Chief Information Officer",
+    //     img:
+    //         "placeholder",
+    //     text:
+    //         "Jane Doe oversees all CORG promotional events and activities throughout the term. He/She represents CORG in a positive light, manages the social media presence and devises effective marketing tactics to execute in an optimal manner for success.",
+    // },    
 ];
 // select items
 const img = document.getElementById("person-img");
