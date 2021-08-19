@@ -179,7 +179,7 @@ main {
   box-shadow: var(--light-shadow);
   transition: var(--transition);
   text-align: center;
-  height: 350px;
+  height: 275px;
 }
 .member:hover {
   box-shadow: var(--dark-shadow);

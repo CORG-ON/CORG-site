@@ -241,7 +241,7 @@ td{border-width:0 1px;}
 
 /* Gallery
 --------------------------------------------------------------------------------------------------------------- */
-#gallery{display:block; width:100%; margin-bottom:50px;}
+#gallery{display:block; width:100%; margin-bottom: 5px;}
 #gallery figure figcaption{display:block; width:100%; clear:both;}
 #gallery li{margin-bottom:30px;}
 
